@@ -6,7 +6,8 @@ URL for the docker imaage that is updated to Docker Hub account: https://hub.doc
 ![Terminal](https://i.imgur.com/yE5pYyf.jpg)
 ![CloudRun](https://i.imgur.com/TaqTnOj.jpg)
 
-"Hello World" is displayed in the log. The error is due to the listening port 3000 but the program simply prints the Hello World
+
+"Hello World" is displayed in the log. The error is due to the listening port 3000 but the program simply prints the Hello World. The log url is in the color of purple and the cluster name is included in the url.
 
 ## 3. Dockerfile and Source Code
 Please refer to Dockerfile and HelloWorld.java in this repository.
